@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "memory": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "complex": "cpp"
+    }
+}
